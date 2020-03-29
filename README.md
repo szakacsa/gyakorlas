@@ -1,0 +1,2 @@
+# gyakorlas
+Programozási gyakorlatok
